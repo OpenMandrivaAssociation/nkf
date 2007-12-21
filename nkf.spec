@@ -11,6 +11,7 @@ License:   BSD-like
 Group:     System/Internationalization
 URL:       http://sourceforge.jp/projects/nkf/
 Source:    http://prdownloads.sourceforge.jp/nkf/20055/%{name}%{src_version}.tar.bz2
+Buildroot: %{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 Nkf is a yet another kanji code converter among networks, hosts and
