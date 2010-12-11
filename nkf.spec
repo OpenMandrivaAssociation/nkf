@@ -1,7 +1,7 @@
 %define	name         nkf
 %define	version      2.07
 %define	src_version  207b1
-%define	release      %mkrel 0.2
+%define	release      %mkrel 0.3
 
 Summary:   Network Kanji code conversion Filter
 Name:      %{name}
