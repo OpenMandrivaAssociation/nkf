@@ -1,7 +1,7 @@
 Summary:	Network Kanji code conversion Filter
 Name:		nkf
 Version:	2.1.3
-Release:	1
+Release:	2
 License:	BSD
 Group:		System/Internationalization
 Url:		http://sourceforge.jp/projects/nkf/
