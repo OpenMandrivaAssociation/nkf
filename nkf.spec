@@ -4,7 +4,7 @@ Version:	2.1.3
 Release:	2
 License:	BSD
 Group:		System/Internationalization
-Url:		http://sourceforge.jp/projects/nkf/
+Url:		https://sourceforge.jp/projects/nkf/
 Source0:	http://prdownloads.sourceforge.jp/nkf/20055/%{name}-%{version}.tar.gz
 
 %description
