@@ -7,6 +7,7 @@ Group:		System/Internationalization
 Url:		https://sourceforge.jp/projects/nkf/
 Source0:	http://prdownloads.sourceforge.jp/nkf/20055/%{name}-%{version}.tar.gz
 
+BuildRequires:	make
 %description
 Nkf is a yet another kanji code converter among networks, hosts and
 terminals.  It converts input kanji code to designated kanji code such
